@@ -4,8 +4,8 @@ using Microsoft.EntityFrameworkCore;
 
 namespace NewsApp.Controllers
 {
-    [Route("api/[controller]")]
     [ApiController]
+    [Route("api/[controller]")]
     public class NewsController : ControllerBase
     {
         private readonly DataAccessLayerDB _context;

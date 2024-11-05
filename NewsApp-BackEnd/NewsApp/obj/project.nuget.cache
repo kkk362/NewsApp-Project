@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0pq7GhhY7aI=",
+  "dgSpecHash": "s+mdm7jI9Ew=",
   "success": true,
-  "projectFilePath": "E:\\NewsApp\\NewsApp.csproj",
+  "projectFilePath": "E:\\Hexaware Training\\Projects\\Working Full Stack Application\\NewApp-Project\\NewsApp-BackEnd\\NewsApp\\NewsApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnet.webapi.client\\6.0.0\\microsoft.aspnet.webapi.client.6.0.0.nupkg.sha512",

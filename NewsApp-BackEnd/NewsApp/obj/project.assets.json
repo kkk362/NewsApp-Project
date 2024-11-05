@@ -3176,11 +3176,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\NewsApp\\NewsApp.csproj",
+      "projectUniqueName": "E:\\Hexaware Training\\Projects\\Working Full Stack Application\\NewApp-Project\\NewsApp-BackEnd\\NewsApp\\NewsApp.csproj",
       "projectName": "NewsApp",
-      "projectPath": "E:\\NewsApp\\NewsApp.csproj",
+      "projectPath": "E:\\Hexaware Training\\Projects\\Working Full Stack Application\\NewApp-Project\\NewsApp-BackEnd\\NewsApp\\NewsApp.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "E:\\NewsApp\\obj\\",
+      "outputPath": "E:\\Hexaware Training\\Projects\\Working Full Stack Application\\NewApp-Project\\NewsApp-BackEnd\\NewsApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
